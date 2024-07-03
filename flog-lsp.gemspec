@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name = "flog-lsp"
   spec.version = FlogLsp::VERSION
   spec.authors = ["Chris AtLee"]
-  spec.email = ["chris.atlee@shopify.com"]
+  spec.email = ["chris@atlee.ca"]
 
   spec.summary = "LSP for providing flog metrics in the editor"
   spec.homepage = "https://github.com/catlee/flog-lsp"
